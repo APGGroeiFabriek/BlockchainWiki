@@ -4,7 +4,7 @@
 	* * 🤝 Consensus
 	* * ✨ Tokenization
 	* * ⛓ Cryptography
-	* * 🏛 Governance
+	* * [🏛 Governance](gov.md)
 	* * 📝 Smart Contracts
 	* * 🕵️‍ Privacy
 	* * 🛡 Security
