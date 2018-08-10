@@ -1,13 +1,21 @@
 * [👋 **Getting Started**](home.md)
-* 
-* 🧠 Theory Topics
+* 🧠 **Theory Topics**
+
 	* * 🤝 Consensus
 	* * ✨ Tokenization
 	* * ⛓ Cryptography
 	* * 🏛 Governance
 	* * 📝 Smart Contracts
-	* * 🕵️‍♂️ Privacy
+	* * 🕵️‍ Privacy
 	* * 🛡 Security
 	* * 🖥 Technical & Operational
 	* * 💼 Legal
 	* * 🌍 Ecosystem and Sustainability
+
+---
+* *Coming Soon!*
+
+    * * 🛠 Use-Cases
+
+    * * 💻 Dev Resources
+
