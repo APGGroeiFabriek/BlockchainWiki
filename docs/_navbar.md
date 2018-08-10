@@ -4,8 +4,8 @@
   * 🇳🇱
   * 🇩🇪
 
-* TH3.BUILD ![logo](/_media/bubble_black.svg ':size=12')
+* <span style="font-family: 'Open Sans'; color:#cc3144;"><strong>Groei</strong></span><span style="font-family: 'Open Sans'; color:#0058a3;"><strong>Fabriek</strong></span>
 
-  * [Teaser](https://th3.build)
-  * [TV](https://th3.build/tv)
-  * [Newsletter](https://th3build.substack.com)
+  * [Website](https://groeifabriek.com/)
+  * [Twitter](https://twitter.com/GroeiFabriek1)
+  * [Experiments](https://groeifabriek.com/#experiments)
