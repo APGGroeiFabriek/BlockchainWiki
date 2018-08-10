@@ -4,7 +4,7 @@
 Governance is the processes of governing, whether undertaken by a government, a market or a
 network, over a social system (family, tribe, formal or informal organization, a territory or across
 territories) and whether through the laws, norms, power or language of an organized society.
-interaction and decision-making among the actors involved in a collective problem . Governance is
+Interaction and decision-making among the actors involved in a collective problem . Governance is
 the way the rules, norms and actions are structured, sustained, regulated and held accountable.
 
 Blockchain is a distributed ledger-system, used as the single source of truth and governed by the
@@ -15,7 +15,7 @@ case for traditional databases), blockchain needs to meet the requirements of th
 system – having to bridge all gaps in perception and expectation associated with the different
 activities, goals and roles in the supply- and value-chain.
 
-To keep an overview, the most blockchain-relevant types of governance are highlighted here:
+?> To keep an overview, the most blockchain-relevant types of governance are highlighted here:
 
 | Type of Governance 	| Relevant Questions 	|
 |--------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -33,7 +33,7 @@ APG GroeiFabriek is a trend-setter in creating the landscape and eco-system for 
 APG participates in the experiment “Techruption Blockchain Consortium”. 
 Target of this experiment is to learn which additional technical, operational and governmental challenges show up when a Blockchain-platform is set up within the context of a consortium.
 
-👉 More on this: [Click here](https://dl.eusset.eu/handle/20.500.12015/3162)
+👉 **More on this: [Click here](https://dl.eusset.eu/handle/20.500.12015/3162)**
 
 APG’s experiment “PI” partially focuses on the Legal Governance topic. The main reason for this is that Blockchain-technology has got a tensioned relationship with the new GDPR legislation. Especially principles such as “the right to be forgotten”, “data transportability” and the legal restrictions around functional requirements to process data.
 
@@ -51,7 +51,7 @@ A smooth governance of a blockchain platform within the context of a consortium 
 
 At this moment there’s not a lot out there which are able to support a blockchain-system, let alone one within a consortium-context. Particularly strange as there’s  a lot of eyes focused on DAO-like cooperations, whereby the assumption is that management is obsolete and governance is democratized in an automated way.
 
-There are however a couple of solutions in development-state. 
+?> There are however a couple of solutions in development-state. 
 Some examples of important blockchain parties currently focusing on these terrains:
 
 | Type of Governance 	| Party 	| Tools 	|
