@@ -4,7 +4,7 @@
 <center>![](_media/sun.gif ':no-zoom')</center>
 
 ## 👋 Howdy!
-We're APG. TESTING TESTING 1234 The largest pension company in the Netherlands! 🇳🇱
+We're APG. The largest pension company in the Netherlands! 🇳🇱
 
 When it comes to delivering financial security for your future, we're the biggest nerds around. 🤓 That's why we're so enthusiastic about the possibilities of Blockchain, AI, and Climate Change. These technologies and global challenges keep us up at night because they provide a glimpse how the future of our society and economy might shape itself. 
 
