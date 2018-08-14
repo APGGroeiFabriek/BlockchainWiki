@@ -1,6 +1,6 @@
 # GroeiFabriek's Pension Blockchain Community
 
-blah blah bah
+red rabbits
 
 <script src="docsify.js" data-load-sidebar="nl/_sidebar.md"></script>
 
