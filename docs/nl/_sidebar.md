@@ -1,4 +1,4 @@
-* [👋 **Ermee beginnen**](home.md)
+* [👋 **Ermee beginnen**](nl/)
 * 🧠 **DUTCH DUTCH DUTCH**
 
 	* * 🤝 Consensus
