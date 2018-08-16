@@ -1,7 +1,7 @@
 <!-- _navbar.md -->
 
 * Translations *(Coming soon!)*
-  * [🇳🇱 Dutch](nl)
+  * [🇳🇱 Dutch](/nl/)
   * [English](/)
 
 * <span style="font-family: 'Open Sans'; color:#cc3144;"><strong>Groei</strong></span><span style="font-family: 'Open Sans'; color:#0058a3;"><strong>Fabriek</strong></span>
