@@ -1,5 +1,5 @@
 * [👋 **Ermee beginnen**](/nl/)
-* 🧠 **DUTCH DUTCH DUTCH**
+* 🧠 **Onderwerpen**
 
 	* * 🤝 Consensus
 	* * ✨ Tokenization
