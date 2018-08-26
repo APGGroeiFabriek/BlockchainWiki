@@ -56,6 +56,7 @@ Stock certificates
 </table>
 
 
+## Classifications
 Now we'll dive a bit deeper into the theoretical classifications, which hopefully helps in getting more grip on why it's there, what it does and why it is expected to have a big impact on the world. We'll start with the business side:
 
 
