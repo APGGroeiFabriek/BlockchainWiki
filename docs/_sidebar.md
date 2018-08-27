@@ -12,6 +12,8 @@
 	* * 💼 Legal
 	* * 🌍 Ecosystem and Sustainability
 
+* [📝 Edit this Wiki](edit.md)
+
 ---
 * *Coming Soon!*
 
