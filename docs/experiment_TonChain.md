@@ -16,4 +16,4 @@ Running TonChain on the public Ethereum blockchain gives it the benefit of being
 **What's the ideal end result after your solution is built?**:<br>
 TonChain is a new way of doing pensions and holds the potential of setting a new standard how pensions can be managed. The logic of sharing longevity risk peer to peer has been developed and now we are looking into the future possibilities.
 
-?> In case you want to read a more extensive article on TonChain, please read our publication in the <a href=” https://www.cfasociety.org/netherlands_nl/Documents/VBA%20journaal%20134%20zomer%202018_TOTAAL.pdf” >VBA Journaal.</a><br><br>If you want to know more or want to get involved do not hesitate to <a href=” https://groeifabriek.com/#contact”>contact</a> us.
+?> In case you want to read a more extensive article on TonChain, please read our publication in the [VBA Journaal](https://www.cfasociety.org/netherlands_nl/Documents/VBA%20journaal%20134%20zomer%202018_TOTAAL.pdf).<br><br> If you want to know more or want to get involved do not hesitate to [contact](https://groeifabriek.com/#contact) us.
