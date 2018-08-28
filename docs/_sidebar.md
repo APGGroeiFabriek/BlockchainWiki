@@ -15,6 +15,7 @@
 * 🛠 Use-Cases
 	* * [PI](experiment_PI.md)
 	* * [TonChain](experiment_TonChain.md)
+	* * [NestEgg](experiment_NestEgg.md)
 
 ---
 
