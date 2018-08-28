@@ -1,7 +1,7 @@
 * [👋 **Getting Started**](home.md)
 * 🧠 **Theory Topics**
 
-	* * [🤝 Consensus](consensus.md)
+	* * 🤝 Consensus
 	* * [✨ Tokenization](tokenization.md)
 	* * ⛓ Cryptography
 	* * [🏛 Governance](gov.md)
@@ -12,12 +12,18 @@
 	* * 💼 Legal
 	* * 🌍 Ecosystem and Sustainability
 
+* 🛠 Use-Cases
+	* * [PI](experiment_PI.md)
+	* * [TonChain](experiment_TonChain.md)
+
+---
+
 * [📝 Edit this Wiki](edit.md)
 
 ---
 * *Coming Soon!*
 
-    * * 🛠 Use-Cases
+    <!-- * * 🛠 Use-Cases -->
 
     * * 💻 Dev Resources
 

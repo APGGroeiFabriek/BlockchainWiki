@@ -240,42 +240,36 @@ Examples: BTC (Bitcoin), ZEC (ZCash)
 
 Source: [http://www.untitled-inc.com/the-token-classification-framework-a-multi-dimensional-tool-for-understanding-and-classifying-crypto-tokens/](http://www.untitled-inc.com/the-token-classification-framework-a-multi-dimensional-tool-for-understanding-and-classifying-crypto-tokens/)
 
-**Strategic Level**
+## Strategic Level
 
 The internet was the base source of the digital world, where information could be freely shared. Key protocols, such as TCP/IP and HTTP, made it possible to move freely within this dimension. The lack of physical presence, verification-process of who you're dealing with and time-lack + separation between delivery of goods/services and the payment for these, were obstructions in the commercial development.
 
 Blockchain brings the possibility to overcome these things – with tokens playing a significant role in this.
 
-**Tokens representing value**
+## Tokens representing value
 
 What is defined as valuable, can be very diverse. 
-
 
 
 1.  Money and assets are the most obvious ones. 
 1.  The rights to accumulate them can be a secondary one, 
 1.  and the possibility to influence or make decisions can be also a very powerful functionality.
-1.  **Money and Assets**
+
+
+## Money and Assets
 
 The whole Blockchain-movement started with crypto-currencies (read: Bitcoin), providing a new way of storing, transporting and exchanging money. No need for a bank granting you access to a savings-account, marginal costs of transferring your money to far-away family. 
 
 The down-side is the highly fluctuating value of these crypto-currencies – inspiring some companies to grab back to old principles – such as the gold-standard.
 
 
-```
-
-
-```
-
-
 Besides value-carrying tokens, in crypto-land, we also distinguish "utility-tokens" (defined as a facilitator to do transactions, not as a value-carrier). Theoretical this might seem easy to grasp as a clear distinction, but when you realize that since 1971 the USD-value link to Gold was abandoned, there's nothing more than the trustworthiness of a government backing the value of i.e. the USD. Policies like "Quantitative Easing" have put pressure on this trust for some, triggering a longing back to more fixed and predictable monetary structure (which strangely enough the foundations of crypto-currencies provide with a predefined amount of tokens). 
 
-An example
+*An example:*
 
 
-```
-A bitcoin is a native token on the Bitcoin-blockchain, and used / defined as a true crypto currency. There's no real-assets or fiat-currencies (name for traditional country-governed currencies) backing the value of this. The value is purely defined by supply and demand. As the supply is pre-defined in a smart contract (max # bitcoins possible is 21 million).
-```
+> A bitcoin is a native token on the Bitcoin-blockchain, and used / defined as a true crypto currency. There's no real-assets or fiat-currencies (name for traditional country-governed currencies) backing the value of this. The value is purely defined by supply and demand. As the supply is pre-defined in a smart contract (max # bitcoins possible is 21 million).
+
 
 
 As most countries state a Bank-license is required for creating a currency, most platforms claim to generate utility-token. Probably in the close future, clear definitions of what's what will materialize.
@@ -288,17 +282,13 @@ Illiquid assets, not as well-structured as liquids, might be slightly more diffi
 
 APG-AM Operations has supported a Groeifabriek-project, BLIEP, focusing specifically on this topic. In the next newsletter more on this.
 
-**Atomic SWAP: Solving time-lack and interlink asset-transfer and payment**
+## Atomic SWAP
+**Solving time-lack and interlink asset-transfer and payment**
 
 To solve the counterparty-risk during a transaction, caused by the lack of interlink between asset delivery and payment and/or the time-difference between transaction and settlement, tokens can provide the possibility of "equal value, equal time transfer". As the asset-representing token and payment-representing token are actually inside the transaction, parties can be fully sure there is no way someone can cheat here.
 
 
-```
-
-```
-
-
-**_<span style="text-decoration:underline;">Conclusions of "Tokens" as money or assets:</span>_**
+## "Tokens" as money or assets
 
 
 
@@ -319,7 +309,7 @@ Conclusions of "tokens as right to earn assets"
 
 
 
-1.  **Influencing and decision making**
+## Influencing and decision making
 
 Tokens can also be used to define and operationalize Governance-processes. One can think of utilizations like script-defined manifests and voting-/decision-making applications.  Tokens provide the possibility to bring voting- and decision-making straight back to the person who owns these rights. In most instances the need to centrally delegate this to another person was born out of time- and costs-constraints.
 
@@ -483,7 +473,7 @@ Whereas, if you have a standard and uniformity, it becomes very easy for users a
 
 Current difficulty is that the technology of tokens has still got bugs. In this sense standardization and bringing the token-technology to a full-grown level are slowing each other down. ERC20 is currently the most used one, but is certainly not perfect, and by far not the only one available, so… if you want to know more on other Ethereum token protocol standards: [Click here](https://www.cointelligence.com/content/comparison-erc20-erc223-new-ethereum-erc777-token-standard/).
 
-**Legal Status**
+## Legal Status
 
 Tokens are used for a multitude of purposes, certainly not in the least as a financial tool to get funding for projects and companies.
 
@@ -508,8 +498,7 @@ Some logical questions in this situation would be:
 
 When you want to start using tokens, and they could be used as a representative of financial value, make sure you've got sufficient legal council.
 
-Interesting links
-
+?> *Interesting links* 👇
 
 <table>
   <tr>
