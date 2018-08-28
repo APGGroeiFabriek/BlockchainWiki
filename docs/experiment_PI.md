@@ -22,5 +22,5 @@ None 😜
 
 Inexplicable bugs, no floating point integers available, network instability, smart contract incompatibility, no support from software vendors. But we overcame all of them.
 
-**Where could you use help / ideas from APG community?**:
+?> **Where could you use help / ideas from APG community?**:
 Bringing blockchain to real life implementation and help us to deliver maximum customer value and validate the solutions we design.
