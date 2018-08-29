@@ -22,7 +22,7 @@ Blockchain technology needs to comply with this, but in addition presents a bund
 
  
 
-## The Added Value
+## Why use Blockchain?
 
 The reward for a functioning Blockchain infrastructure though, is big. Blockchain can simplify processes and make them more transparent, it can convert business principles and manual processes into smart contract-logic – in essence dissolve numerous forms of counterparty-risks.
 
