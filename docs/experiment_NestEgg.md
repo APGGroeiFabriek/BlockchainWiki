@@ -36,3 +36,9 @@ We're launching on public ethereum, yet currently building using the Rinkeby tes
 
 
 ?> Our MVP tech is almost ready. We're currently planning several pilots to launch this platform with several paying customers. If you have any enthusiasts who want to be the first to collectively deploy solar panels, have them get in touch via 💌 [info@nestegg.eu](mailto: info@nestegg.eu)
+
+## We're on the Internet
+
+* [📹 Video nterview at the Blockchaingers Hackathon 2018](https://www.youtube.com/watch?v=VRiaQLwAZn4)
+* [📹 Video of NestEgg's pitch at TEDx](https://www.youtube.com/watch?v=KPsXJ7VMdJM)
+* [🎧 Crypto Radio's podcast interview of NestEgg](https://www.youtube.com/watch?v=26Y9lWKZt-s)
