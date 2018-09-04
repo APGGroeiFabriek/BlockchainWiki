@@ -1,16 +1,16 @@
 * [👋 **Getting Started**](home.md)
 * 🧠 **Theory Topics**
 
-	* * 🤝 Consensus
+	<!-- * * 🤝 Consensus -->
 	* * [✨ Tokenization](tokenization.md)
 	* * [⛓ Cryptography](crypto.md)
 	* * [🏛 Governance](gov.md)
-	* * 📝 Smart Contracts
-	* * 🕵️‍ Privacy
-	* * 🛡 Security
-	* * 🖥 Technical & Operational
-	* * 💼 Legal
-	* * 🌍 Ecosystem and Sustainability
+	<!-- * * 📝 Smart Contracts -->
+	<!-- * * 🕵️‍ Privacy -->
+	<!-- * * 🛡 Security -->
+	<!-- * * 🖥 Technical & Operational -->
+	<!-- * * 💼 Legal -->
+	<!-- * * 🌍 Ecosystem and Sustainability -->
 
 * 🛠 Use-Cases
 	* * [PI](experiment_PI.md)
