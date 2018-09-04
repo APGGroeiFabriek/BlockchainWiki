@@ -1,7 +1,5 @@
 * [👋 **Ermee beginnen**](/nl/)
-* 🧠 **Onderwerpen**
-
-	* * 🤝 Consensus
+	<!-- * * 🤝 Consensus
 	* * ✨ Tokenization
 	* * ⛓ Cryptography
 	* * [🏛 Governance](gov.md)
@@ -10,12 +8,12 @@
 	* * 🛡 Security
 	* * 🖥 Technical & Operational
 	* * 💼 Legal
-	* * 🌍 Ecosystem and Sustainability
+	* * 🌍 Ecosystem and Sustainability -->
 
 ---
 * *Coming Soon!*
 
     * * 🛠 Use-Cases
-
     * * 💻 Dev Resources
+    * * 🧠 Onderwerpen
 

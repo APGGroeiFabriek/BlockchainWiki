@@ -9,7 +9,7 @@ This administrative process needs to fit within the overall pension administrati
 
 The essence of the issue being tackled is to create an efficient, transparent and compliant pension infrastructure, which meets the requirements of the pension participant in functionalities, flexibility and costs.
 
-## Why use the Blockhain (what's the value add over a database?)
+## Why use the Blockchain
 The financial world is changing – quick. Blockchain provides the best basis to automate business processes, where control, trust, risk and control play a key role.
 
 ## Progress So Far

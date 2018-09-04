@@ -1,7 +1,6 @@
 # GroeiFabriek's Pension Blockchain Community
 
-<br>
-<center>![](../_media/sun.gif ':no-zoom')</center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/To87w0AB7iY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## 👋 Hoi!
 

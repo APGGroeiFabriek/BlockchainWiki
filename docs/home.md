@@ -6,7 +6,7 @@
 
 *Hidde Terpoorten introducing blockchain pension use-cases that can solve challenges in the pension industry*
 
-## 👋 Howdy!
+## 👋 Welcome!
 We're APG. The largest pension service provider in the Netherlands! 🇳🇱
 
 When it comes to delivering financial security for your future, we're the biggest nerds around. 🤓 That's why we're so enthusiastic about the possibilities of Blockchain, AI, and Climate Change. These technologies and global challenges keep us up at night because they provide a glimpse how the future of our society and economy might shape itself. 
@@ -16,16 +16,33 @@ Thus, we've pulled up our bootstraps and took the plunge. We work within the <sp
 ## 🗣 Community
 We're not going to change the future of pensions alone. We're building a more secure, stable, and accessible future, this is a collaborative effort. We're publishing this wiki openly so that everyone can help us improve this knowledge base and get involved with our experiments. The more brainpower we have working on the problems, the more creative solutions we'll come up with!
 
-<center>
-*Check out our innovation manual to start your own experiments!*
-<br><br>
+**👥 Our Honored Community Members**
+* [GroeiFabriek](http://Groeifabriek.com)
+* [Techruption](https://www.techruption.org/)
+* [Brightlands](https://www.brightlands.com/)
+* [Dutch Blockchain Coalition](https://www.dutchdigitaldelta.nl/en/blockchain)
+* [Blockchaingers Hackathon Series](https://blockchaingers.org)
 
-<a href="https://groeifabriek.com/downloads/GroeiFabriek%20Innovatie%20Handboek%20V3.0%20ENG%20Screen.pdf"><img src="https://groeifabriek.com/img/services3.jpg" style="width: 120px;
-    height: 120px;
-    border-radius: 100%;
-    background: #eee no-repeat center;
-    background-size: cover"> <br>Download the PDF</a>
-</center>
+<!-- <center> -->
+
+
+<table>
+  <tr>
+   <td>**Take our Innovation Manual:**<br><br>At the GroeiFabriek labs, we explore through several blockchain, ai, and climate change experiments. <br><br>To onboard new members to our team, we've developed an innovation manual to get them thinking more creatively and critically.<br><br>*Yet why keep this to ourselves?*
+   </td>
+   <td>*Check out our innovation manual and start your own experiments!*
+<br><br>
+	<center>
+		<a href="https://groeifabriek.com/downloads/GroeiFabriek%20Innovatie%20Handboek%20V3.0%20ENG%20Screen.pdf"><img src="https://groeifabriek.com/img/services3.jpg" style="width: 120px;
+		    height: 120px;
+		    border-radius: 100%;
+		    background: #eee no-repeat center;
+		    background-size: cover"> <br>Download the PDF
+		</a>
+	</center>
+   </td>
+  </tr>
+</table>
 
 ## 🤔 How to use the Wiki
 This knowledge base is designed to help you uncover what's behind the buzzwords and concepts you might see flying around when first getting into blockchain. Our goal is to create a plethora of material that you can devour to get an understanding of the topic, along with links to further resources to dive deeper.
