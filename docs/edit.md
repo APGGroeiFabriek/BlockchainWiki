@@ -49,4 +49,4 @@ Your edit will appear publically with the proposed removed & added text.
 
 After proposing the change it is very important to create a pull request so that we can add your contribution to our website.
 
-![Public](https://imgur.com/a/fLCbykr)
+![Public](https://i.imgur.com/aHFNKih.png)
