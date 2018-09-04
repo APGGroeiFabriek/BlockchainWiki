@@ -1,7 +1,7 @@
 * [👋 **Getting Started**](home.md)
 * 🧠 **Theory Topics**
 
-	<!-- * * 🤝 Consensus -->
+	* * [🤝 Consensus](consensus.md)
 	* * [✨ Tokenization](tokenization.md)
 	* * [⛓ Cryptography](crypto.md)
 	* * [🏛 Governance](gov.md)
@@ -14,10 +14,12 @@
 
 * 🛠 Use-Cases
 	* * [PI](experiment_PI.md)
+	* * [Netjs](experiment_Netjs.md)
 	* * [TonChain](experiment_TonChain.md)
 	* * [NestEgg](experiment_NestEgg.md)
 	* * [RetireMe](experiment_RetireMe.md)
 	* * [Techruption Blockchain Consortium](experiment_Techruption.md)
+	* * [Hackathon Projects](hackathons.md)
 
 ---
 
