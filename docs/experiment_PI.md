@@ -3,7 +3,7 @@
 We create and support a low-cost, flexible and reliable Pension Infrastructure so that pension service providers are able to deliver maximum value for the pension funds and their participants.
 
 ## Problem 
-What Pension administration flexibility, cost per participant and transparence.
+Pension administration flexibility, cost per participant and transparence.
 
 ## Why use Blockchain?
 The DNA of blockchain with transaction audit trail and ecosystem focus matches the DNA of pension administration as a system of record where information on the pension history needs to be kept safe for a very long time.
