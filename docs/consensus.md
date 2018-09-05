@@ -32,12 +32,6 @@ Each group within the PoW system provides services to the other, and has leverag
 
 Proof of Work is not the only way to organize a group of people to run a distributed system. Think of these consensus mechanisms as simply the rules how the group decides on the next series of transactions, and how to ensure they aren't malicious. While PoW is considered the most secure and battletested, it has a few draw backs:
 
-**Proof of Work**
-* Requires physical computers to run resource intensive processes in order to “vote” on the next block of transactions to be added to chain.
-* This requirement of physical machines that consume a lot of energy is to make attacking the system costly. Thus even bad actors have an economic incentive to follow the rules because once they do, they will start earning money instead of gaining nothing by hacking it.
-* Drawback: This consumes a lot of energy. While a plurality of miners use [renewable energy sources](https://cointelegraph.com/storage/uploads/view/63c09c4f88dee4a6153eb4020dd8360e.png), this isn't sustainable and we should find less resource intensive ways to secure our software from malicious actors.
-
-
 <table>
   <tr>
    <td>Type
