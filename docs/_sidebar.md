@@ -1,4 +1,5 @@
 * [👋 **Getting Started**](home.md)
+* [🤔 What's Blockchain?](bc_story.md)
 * 🧠 **Theory Topics**
 
 	* * [🤝 Consensus](consensus.md)
