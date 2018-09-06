@@ -1,4 +1,4 @@
-# Self-Sovereign Identity Framwork (SSIF)
+# Self-Sovereign Identity Framework (SSIF)
 
 Together with partners from Techruption and the Dutch Blockchain Coalition like TNO, CZ, Rabobank, ABNAMRO, KvK is working on a framework that gives individuals control over their identity and enables organisations to effectively use identity information.  
 
