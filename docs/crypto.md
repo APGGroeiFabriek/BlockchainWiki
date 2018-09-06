@@ -38,7 +38,7 @@ A typical schema to show how an encryption / decryption process functions, shown
 A sender creates a message (P), sender encrypts it using the (private) key. The encrypted message (C) is transferred (i.e. by email or through internet) to the receiver. The receiver has got a matching key and decrypts the message, returning the message to it's original content and form (P).
    </td>
    <td>
-	![](docs/_media/crypto-3.png)	
+	![](_media/crypto-3.png)	
    </td>
   </tr>
 </table>
@@ -66,10 +66,10 @@ A transaction is defined (based on a smart contract), and either needs a single 
 <table>
   <tr>
    <td>
-	![](docs/_media/crypto-1.png)
+	![](_media/crypto-1.png)
    </td>
    <td>
-	![](docs/_media/crypto-2.png)
+	![](_media/crypto-2.png)
    </td>
   </tr>
   <tr>
