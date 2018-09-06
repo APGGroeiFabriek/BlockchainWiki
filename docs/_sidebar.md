@@ -18,6 +18,7 @@
 	* * [TonChain](experiment_TonChain.md)
 	* * [NestEgg](experiment_NestEgg.md)
 	* * [RetireMe](experiment_RetireMe.md)
+	* * [Self Sovereign Identity Framework](experiment_SSIF.md)
 	* * [Techruption Blockchain Consortium](experiment_Techruption.md)
 	* * [Hackathon Projects](hackathons.md)
 
