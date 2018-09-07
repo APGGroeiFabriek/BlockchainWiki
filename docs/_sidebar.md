@@ -12,7 +12,7 @@
 	<!-- * * 🛡 Security -->
 	<!-- * * 🖥 Technical & Operational -->
 	<!-- * * 💼 Legal -->
-	<!-- * * 🌍 Ecosystem and Sustainability -->
+	* * [🌍 Ecosystem and Sustainability](eco.md)
 
 * 🛠 Use-Cases
 	* * [PI](experiment_PI.md)

@@ -22,6 +22,17 @@ Involves:
 * Governance model
 * Real life implementations
 
+## Status
+We're currently working on two experiments:
+
+![](_media/id-3.png)
+1. KvK (Chamber of Commerce): build a process that makes it possible to
+establish a firm online (including getting a KvK number, VAT number, bank
+account, etc.). <br>
+![](_media/id-4.png)
+2. CZ (Health insurer): significantly improve declaration process of customers’
+health expenses through the use of digital attestations. Experiment with issuing
+“de pil”. Status: prototype being built. Preparing for a pilot to start in Jan. 2019.
 
 ## How to Help
 ?> Want to know more about self sovereign identity? [📄 Read this](https://blockchain.tno.nl/blog/self-sovereign-identities-it-is-going-to-happen/) <br><br> Want to know more about the project?
