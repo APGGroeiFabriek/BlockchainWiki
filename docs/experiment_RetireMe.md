@@ -5,7 +5,7 @@
 </center>
 
 
- RetireMe is an awareness platform which provides consumers with means to save up for their retirement. The platform facilitates saving through micro transactions based on sustainable use cases, for example deposit bottle returns. Our goal is to make consumers aware to the point that they understand the potential return on investment regarding long term investments. RetireMe also aims to provide consumers with accessible ways of contributing financially to their pensions. Adding use cases to the platform will account for multiple awareness touch points, adding up to higher monthly investments with even greater returns on investments.
+ [RetireMe](http://retireme.nl) is an awareness platform which provides consumers with means to save up for their retirement. The platform facilitates saving through micro transactions based on sustainable use cases, for example deposit bottle returns. Our goal is to make consumers aware to the point that they understand the potential return on investment regarding long term investments. RetireMe also aims to provide consumers with accessible ways of contributing financially to their pensions. Adding use cases to the platform will account for multiple awareness touch points, adding up to higher monthly investments with even greater returns on investments.
 
  
 
@@ -31,4 +31,4 @@ An independent platform for all consumers to save up for additional retirement f
 We are currently researching which blockchain or distributed ledger technology is the best option to develop RetireMe to its full potential. We have built a working prototype on Ethereum (Rinkerby testnet) with Solidity, NodeJS and Java.
 
 ## Request for Help
-?> Currently we are looking for connections with different supermarkets in the Netherlands for the first deposit bottle use case. If you think you have or know a use case that is perfect for the platform we are building, please contact us. Furthermore we believe that user experience is incredibly important for the success of the platform, so ideas in that area would be incredibly helpful as well.<br><br>For all other additions or ideas come in contact with the team! You can find us on LinkedIn if you search for Tim van Iersel, Jordy Vonk and Sebastiaan Verdonk.
+?> [🕸 Our Website.](http://retireme.nl)<br><br>Currently we are looking for connections with different supermarkets in the Netherlands for the first deposit bottle use case. If you think you have or know a use case that is perfect for the platform we are building, please contact us. Furthermore we believe that user experience is incredibly important for the success of the platform, so ideas in that area would be incredibly helpful as well.<br><br>For all other additions or ideas come in contact with the team! You can find us on LinkedIn if you search for Tim van Iersel, Jordy Vonk and Sebastiaan Verdonk.
