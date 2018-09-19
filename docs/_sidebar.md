@@ -11,7 +11,7 @@
 	<!-- * * 🕵️‍ Privacy -->
 	<!-- * * 🛡 Security -->
 	<!-- * * 🖥 Technical & Operational -->
-	* * [💼 Legal](law.md)
+	* * [💼 Legal](legal.md)
 	* * [🌍 Ecosystem and Sustainability](eco.md)
 
 * 🛠 Use-Cases
