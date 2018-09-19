@@ -1,7 +1,6 @@
 # Blockchain – Legal context
 
 _Edited by André Zandee_
-
 _Created 7 Sept 2018_
 
 Any disruptive new technology encounters issues with the legal context matching the existing situation. This is not different for Blockchain.
