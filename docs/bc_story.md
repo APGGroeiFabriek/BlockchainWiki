@@ -150,19 +150,19 @@ Example: <a href="https://etherscan.io/">Etherscan</a>
 </table>
 
 
+## APG's Blockchain Journey
+
+[Download our slides](https://drive.google.com/file/d/0B7rbxUFehbJGZkhFM1RNQ292eG0xWWk3WV9iZGpjdzUzcUJV/view?usp=sharing)
+
 These base principles are then translatable into functional features which are the foundation for the potentially disruptive blockchain business solutions.
 
 This wiki is set up in such a way that it sequentially zooms in on relevant topics of Blockchain – both
-
-
 
 *   the technical and governance building blocks, 
 *   the features and qualities it brings
 *   the required changes in thinking and business approach it requires
 
 It does this in the following structure:
-
-
 
 *   Business focus
 *   Technical focus
