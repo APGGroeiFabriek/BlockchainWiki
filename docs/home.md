@@ -13,6 +13,8 @@ When it comes to delivering financial security for your future, we're the bigges
 
 Thus, we've pulled up our bootstraps and took the plunge. We work within the <span style="font-family: Open Sans"><strong>GroeiFabriek</strong></span> ("Growth Factory" in Dutch), which is our accellerator to deploy experiments that let us directly apply this technology to the problems in pensions. We have teams working on a variety of pilots and regularly share our knowledge with the wider ecosystem to help everyone get a better grip on how to use these tools.
 
+<a href="_media/pdf_groeifabriek.pptx">📄 The GroeiFabriek Introduction Slidedeck</a>
+
 ## 🗣 Community
 We're not going to change the future of pensions alone. We're building a more secure, stable, and accessible future, this is a collaborative effort. We're publishing this wiki openly so that everyone can help us improve this knowledge base and get involved with our experiments. The more brainpower we have working on the problems, the more creative solutions we'll come up with!
 
@@ -28,9 +30,9 @@ We're not going to change the future of pensions alone. We're building a more se
 
 <table>
   <tr>
-   <td>**Take our Innovation Manual:**<br><br>At the GroeiFabriek labs, we explore through several blockchain, ai, and climate change experiments. <br><br>To onboard new members to our team, we've developed an innovation manual to get them thinking more creatively and critically.<br><br>*Yet why keep this to ourselves?*
+   <td><strong>Take our Innovation Manual:</strong><br><br>At the GroeiFabriek labs, we explore through several blockchain, ai, and climate change experiments. <br><br>To onboard new members to our team, we've developed an innovation manual to get them thinking more creatively and critically.<br><br>Yet why keep this to ourselves?
    </td>
-   <td>*Check out our innovation manual and start your own experiments!*
+   <td>Check out our innovation manual and start your own experiments!
 <br><br>
 	<center>
 		<a href="https://groeifabriek.com/downloads/GroeiFabriek%20Innovatie%20Handboek%20V3.0%20ENG%20Screen.pdf"><img src="https://groeifabriek.com/img/services3.jpg" style="width: 120px;

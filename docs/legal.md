@@ -142,3 +142,7 @@ An example: The use of medical data. When the police need to act towards a speci
 What could be a blockchain-solution, is to have a blockchain, nodes both at the side of the police and medical institutions, where the police could request information to [an oracle](https://blockchainhub.net/blockchain-oracles/) within premises of the medical organization. The oracle validates the question, the medical situation and when of vital importance, converts the medical information into a police-usable information-set and communicates back.
 
 As mentioned before, still some legal hurdles need to be tackled within this field to realize these type of bringing together worlds through blockchain.
+
+## Blockchain & EU's GDPR
+
+A presentation was given at APG's Innovation Summit on December 10, 2018 discussing GDPR & Blockchain. You can view <a href="_media/pdf_20181009_gdpr.pdf">these slides here.</a>

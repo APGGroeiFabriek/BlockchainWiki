@@ -21,23 +21,23 @@ Pensions have always been about creating life-security for its customers. Pensio
 
 <table>
   <tr>
-   <td>[RetireMe](experiment_RetireMe.md)
+   <td><a href="/#/experiment_RetireMe.md">RetireMe</a>
 <p>
-`Track Winner`
+<code>Track Winner</code>
    </td>
    <td>Raise awareness among young people and build trust in pension systems through transparency using blockchain technology. They aim to use blockchain to create a system where people could for example recycle their old electronic devices and add the money to their pensions. This requires the involvement of partners, such as supermarkets and recycling centers. Ultimately their solution would make young people start saving younger, which is important because the population is getting older.
    </td>
   </tr>
   <tr>
-   <td>[LunaBound](https://github.com/Blockchaingers/LunaBound)
+   <td><a href="https://github.com/Blockchaingers/LunaBound">LunaBound</a>
 <p>
-`2nd Place`
+<code>2nd Place</code>
    </td>
    <td>Alternative investment vehicle in digital infrastructure. In their product, traditional money from pension funds would be transformed into Ethereum and invested into stakes on behalf of the customer using 'proof of stake', a new technology by Ethereum. The value of money would be measured not by work (usually mining and transactions in cryptocurrency), but by staking your Ehthereum. The final impact of the product, according to Carl Cranker, "allows for a company to invest funds and insure in return, in digital infrastructure".
    </td>
   </tr>
   <tr>
-   <td>[Global Village People](https://blockchaingers.org/teams-2018/global-village-people)
+   <td><a href="https://blockchaingers.org/teams-2018/global-village-people">Global Village People</a>
    </td>
    <td>Coming from the free zone of the track, the team aims to reduce social isolation by creating a system that builds up social credit over one's lifetime. According The team wants to apply blockchain to register people's individual skills and actions and a validation system so that these records could be transferred between different communities. According to the team's spokesperson Bob van Hapenen, the solution would improve social inclusion, make people happier and thus lead into improved life-expectancy.
    </td>
@@ -49,7 +49,7 @@ Pensions have always been about creating life-security for its customers. Pensio
    </td>
   </tr>
   <tr>
-   <td>[P-Launch](https://blockchaingers.org/teams-2018/p-launch)
+   <td><a href="https://blockchaingers.org/teams-2018/p-launch">P-Launch</a>
    </td>
    <td>A system where participants can manage a part of their pension entitlement for sustainable investments already when they're working. Using blockchain, the team will create an ecosystem where different parties such as pension funds, companies, and workers can be implemented and use smart contracts to minimize administration costs. The innovation would allow flexibility and choice for users, and release the money that is currently locked up in pension funds, to be used in a sustainable way.
    </td>
@@ -61,36 +61,25 @@ Pensions have always been about creating life-security for its customers. Pensio
    </td>
   </tr>
   <tr>
-   <td>[Atma](https://blockchaingers.org/teams-2018/atma)
+   <td><a href="https://blockchaingers.org/teams-2018/atma">Atma</a>
    </td>
    <td>Not only to do with pensions, but also with digital identities which is another track in the hackathon. They want to come up with simple practical solutions to improve the general infrastructure of pensions better suited for a modern job market characterized by globalization and and short contracts. They want to apply blockchain to keep free-moving individual workers linked to APG while they are working across the globe, and to create a linking mechanism that allows for more mobility for workers without complications related to taxes and legal issues. ATMA wants to come up with ideas that can be implemented quickly and build a better future in small practical steps.
    </td>
   </tr>
   <tr>
-   <td>[Scriptcie Inc](https://blockchaingers.org/teams-2018/scriptcie-inc)
+   <td><a href="https://blockchaingers.org/teams-2018/scriptcie-inc">Scriptie Inc</a>
    </td>
    <td>Wants to get freelancers and other independent workers more involved in pension systems. According to team member Irina Versteeg, the team wants to solve trust issues by improving transparency and allowing for flexibility in pension funds by applying smart contracts. The impact of their innovation would influence a whole generation of people in an unstable career market and make it possible for them to have social security once they're old.
    </td>
   </tr>
   <tr>
-   <td> [Topicus Finance](https://blockchaingers.org/teams-2018/topicusfinance)
+   <td><a href="https://blockchaingers.org/teams-2018/topicusfinance">Topicus Finance</a>
    </td>
    <td>Insure that people get what they need once they retire. This does not mean just money, but all the basic needs in Maslow’s hierarchy of needs. To secure that a pensioner gets food, a shelter, clothing, and other necessary things the organization has to be decentralized. This is where blockchain steps in. Business processes are bigger than the businesses themselves, and the team wants to integrate these business processes into the blockchain to create more efficiency and more transparency. Ultimately, they want to put the risk on the side of the insurance company, and leave the elderly secured.
    </td>
   </tr>
 
 </table>
-
-<!-- * [LunaBound](https://github.com/Blockchaingers/LunaBound): alternative investment vehicle in digital infrastructure. In their product, traditional money from pension funds would be transformed into Ethereum and invested into stakes on behalf of the customer using ‘proof of stake’, a new technology by Ethereum. The value of money would be measured not by work (usually mining and transactions in cryptocurrency), but by staking your Ehthereum. The final impact of the product, according to Carl Cranker, “allows for a company to invest funds and insure in return, in digital infrastructure”.
-* [Topicus Finance](https://blockchaingers.org/teams-2018/topicusfinance): insure that people get what they need once they retire. This does not mean just money, but all the basic needs in Maslow’s hierarchy of needs. To secure that a pensioner gets food, a shelter, clothing, and other necessary things the organization has to be decentralized. This is where blockchain steps in. Business processes are bigger than the businesses themselves, and the team wants to integrate these business processes into the blockchain to create more efficiency and more transparency. Ultimately, they want to put the risk on the side of the insurance company, and leave the elderly secured.
-* [P2Pensions](https://blockchaingers.org/teams-2018/p2-pension)
-* [Global Village People](https://blockchaingers.org/teams-2018/global-village-people): Coming from the free zone of the track, the team aims to reduce social isolation by creating a system that builds up social credit over one’s lifetime. According The team wants to apply blockchain to register people’s individual skills and actions and a validation system so that these records could be transferred between different communities. According to the team’s spokesperson Bob van Hapenen, the solution would improve social inclusion, make people happier and thus lead into improved life-expectancy.
-* [PetriBlocks](https://blockchaingers.org/teams-2018/petri-blocks): using verifiable claims to create a new b2b infrastructure, and will look into some advanced variations. 
-* [P-Launch](https://blockchaingers.org/teams-2018/p-launch): a system where participants can manage a part of their pension entitlement for sustainable investments already when they’re working. Using blockchain, the team will create an ecosystem where different parties such as pension funds, companies, and workers can be implemented and use smart contracts to minimize administration costs. The innovation would allow flexibility and choice for users, and release the money that is currently locked up in pension funds, to be used in a sustainable way.
-* Blockchain Smarts Key Management: “pension is just a step away from death”. For this reason, the team wants to solve the universal problem of inheritance of private keys. According to Adri Wischmann, the key management tool could be used in case of death but also whenever a key is lost for any reason. This would be done by splitting the key up in parts and distributing it to a group of beneficiaries. After a certain time of inactivity, the key could be recovered with assurance from for example 80% of the beneficiaries. Wischmann says the tool would fix the biggest pain in the blockchain world by assuring that keys would not get lost anymore.
-* [Atma](https://blockchaingers.org/teams-2018/atma): not only to do with pensions, but also with digital identities which is another track in the hackathon. They want to come up with simple practical solutions to improve the general infrastructure of pensions better suited for a modern job market characterized by globalization and and short contracts. They want to apply blockchain to keep free-moving individual workers linked to APG while they are working across the globe, and to create a linking mechanism that allows for more mobility for workers without complications related to taxes and legal issues. ATMA wants to come up with ideas that can be implemented quickly and build a better future in small practical steps.
-* [Scriptcie Inc](https://blockchaingers.org/teams-2018/scriptcie-inc): wants to get freelancers and other independent workers more involved in pension systems. According to team member Irina Versteeg, the team wants to solve trust issues by improving transparency and allowing for flexibility in pension funds by applying smart contracts. The impact of their innovation would influence a whole generation of people in an unstable career market and make it possible for them to have social security once they’re old.
-* [RetireMe](experiment_RetireMe.md): track winner, raise awareness among young people and build trust in pension systems through transparency using blockchain technology. They aim to use blockchain to create a system where people could for example recycle their old electronic devices and add the money to their pensions. This requires the involvement of partners, such as supermarkets and recycling centers. Ultimately their solution would make young people start saving younger, which is important because the population is getting older. -->
 
 ## 2017 Hackathon Projects
 
@@ -99,7 +88,7 @@ Pensions have always been about creating life-security for its customers. Pensio
 
 <table>
   <tr>
-   <td> [NestEgg](experiment_NestEgg.md) <br>`Track Winner`
+   <td><a href="/#/experiment_NestEgg.md">NestEgg</a> <br><code>Track Winner</code>
    </td>
    <td>Insure that people get what they need once they retire. This does not mean just money, but all the basic needs in Maslow’s hierarchy of needs. To secure that a pensioner gets food, a shelter, clothing, and other necessary things the organization has to be decentralized. This is where blockchain steps in. Business processes are bigger than the businesses themselves, and the team wants to integrate these business processes into the blockchain to create more efficiency and more transparency. Ultimately, they want to put the risk on the side of the insurance company, and leave the elderly secured.
    </td>

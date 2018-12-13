@@ -44,3 +44,4 @@ We're launching on public ethereum, yet currently building using the Rinkeby tes
 * [📹 Video interview at the Blockchaingers Hackathon 2018](https://www.youtube.com/watch?v=VRiaQLwAZn4)
 * [📹 Video of NestEgg's pitch at TEDx](https://www.youtube.com/watch?v=KPsXJ7VMdJM)
 * [🎧 Crypto Radio's podcast interview of NestEgg](https://www.youtube.com/watch?v=26Y9lWKZt-s)
+* <a href="_media/pdf_nestegg.pdf">📄 NestEgg's Slides</a>
