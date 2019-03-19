@@ -2,7 +2,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C7KRtnpT-Qc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*🎥 [Watch the Deep-Dive Speakers](deepdive.html)*
+*🎥 [Watch the Deep-Dive Speakers](https://groeifabriek.com/hackathon/deepdive.html)*
 
 ## What's Rethink Retirement?
 APG, the largest pension service provider in Europe, is sponsoring a track at the Odyssey hackathon to find solutions that will enable us to explore completely new career paths. This April 12-14 in Groningen, Netherlands, 10 teams are coming to work on tools to rethink retirement.
