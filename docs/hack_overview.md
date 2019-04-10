@@ -56,6 +56,7 @@ How can APG, the largest pension service provider in the Netherlands and one of 
 * [When can I retire?](https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=5&withdrawalRate=4)
 * [FIRE Sim](http://www.cfiresim.com/)
 * [FIRE Calc](https://www.firecalc.com/index.php)
+* [Pension English/Dutch Dictionary](https://drive.google.com/file/d/0B7rbxUFehbJGdzR4ODVENEV0NjhyTWJDbUFuTFltei1LMGlJ/view?usp=sharing)
 
 ## Track #2: Value before Retirement
 
@@ -67,6 +68,7 @@ APG is in the process of reinventing itself and invites you to find new ways of 
 * [Employees without a pension scheme](https://www.cbs.nl/nl-nl/maatwerk/2018/45/witte-vlek-op-pensioengebied-2016)
 * [Replacements Ratio](https://www.netspar.nl/assets/uploads/Netspar_design_41-WEB-1.pdf)
 * [Trends in Pensions](https://www.ser.nl/-/media/ser/downloads/toespraken/2016-actuele-trends-pensioenen.pdf)
+* [Pension English/Dutch Dictionary](https://drive.google.com/file/d/0B7rbxUFehbJGdzR4ODVENEV0NjhyTWJDbUFuTFltei1LMGlJ/view?usp=sharing)
 
 **Dutch Resources**
 * [Welkom bij APG](https://www.youtube.com/watch?v=oLv21P3VdDU)
